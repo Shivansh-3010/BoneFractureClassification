@@ -1,0 +1,31 @@
+# Virtual Environment
+
+venv/
+
+# Python Cache
+
+**pycache**/
+*.py[cod]
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Windows Files
+
+desktop.ini
+
+# TensorBoard Logs
+
+logs/
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Large Model Files
+
+*.h5
+*.keras

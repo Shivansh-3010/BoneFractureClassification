@@ -1,0 +1,8 @@
+Timestamp,Patient Name,Prediction,Confidence
+2026-05-29 11:58:56,Aman,🦴 Fractured Bone Detected,100.00%
+2026-05-29 12:05:34,Rajat,🦴 Fractured Bone Detected,99.97%
+2026-05-29 12:23:19,Abhinav,✅ No Fracture Detected,99.97%
+2026-05-29 13:07:51,Vansh,🦴 Fractured Bone Detected,100.00%
+2026-05-29 13:12:45,Harsh,✅ No Fracture Detected,92.83%
+2026-05-29 13:19:49,Harshit,🦴 Fractured Bone Detected,99.65%
+2026-05-29 14:33:43,Bhavya,✅ No Fracture Detected,94.93%
